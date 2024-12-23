@@ -1,0 +1,11 @@
+
+
+       
+
+
+4. Validar los endpoint utilizando POSTMAN------------------------------
+
+5. Adjuntar LINK de repositorio publico de GITHUB
+
+6. Adjuntar script de la base de datos actualizada con los registros de pruebas
+realizados.

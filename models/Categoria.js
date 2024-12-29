@@ -1,2 +1,2 @@
 const { DataTypes } = require("sequelize");
-const db = require("../config/database"); // Ruta correcta al archivo database.js
+const db = require("../config/database");
